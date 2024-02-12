@@ -18,4 +18,4 @@ final_amount = round(bill_per_person, 2)
 # Find the answer in the Q&A here: https://www.udemy.com/course/100-days-of-code/learn/lecture/17965132#questions/13315048
 
 
-print(f"Each person should pay: ${final_amount}")221
+print(f"Each person should pay: ${final_amount}")
