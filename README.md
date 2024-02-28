@@ -13,3 +13,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 6:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_6) Python Functions & Karel
 - [Day 7:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_7) Hangman
 - [Day 8:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_8) Function Parameters & Caesar Cipher
+- [Day 9:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_9) Dictionaries, Nesting and the Secret Auction
