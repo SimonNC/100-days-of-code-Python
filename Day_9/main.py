@@ -7,6 +7,7 @@ bids = {}
 
 
 def find_highest_bidder(bidding_record):
+  """Finds the highest bidder from a bidding record"""
   max_bid = 0
   winner = ""
   for bidder in bidding_record:
