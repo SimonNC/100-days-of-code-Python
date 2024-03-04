@@ -19,3 +19,6 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 12:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_012) Scope & Number Guessing Game
 - [Day 13:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_013) Debugging: How to Find and Fix Errors in your Code
 - [Day 14:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_014) Higher Lower Game Project
+
+- ## 📚 Intermediate
+- [Day 15:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_015) Local Development Environment Setup & the Coffee Machine
