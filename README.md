@@ -26,3 +26,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 17:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_017) The Quiz Project & The Benefits of OOP
 - [Day 18:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_018) Turtle & the Graphical User Interface (GUI)
 - [Day 19:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_019) Instances, State and Higher Order Functions
+- [Day 20:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_020) Build the Snake Game Part 1: Animation & Coordinates
