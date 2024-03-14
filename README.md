@@ -28,3 +28,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 19:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_019) Instances, State and Higher Order Functions
 - [Day 20:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_020) Build the Snake Game Part 1: Animation & Coordinates
 - [Day 21:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_021) Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_022) Build Pong: The Famous Arcade Game
