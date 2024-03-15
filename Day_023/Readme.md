@@ -1,5 +1,5 @@
 # Day 23 - The Turtle Crossing Capstone Project
-## Concepts Practised
+## Concepts covered
 - Create a Turtle that responds to Key Presses
 - Write the Car Class and Create to Randomly Spawn Cars
 - How to Detect Collisions with the Cars
