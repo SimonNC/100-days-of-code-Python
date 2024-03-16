@@ -31,3 +31,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 22:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_022) Build Pong: The Famous Arcade Game
 - [Day 23:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_023) The Turtle Crossing Capstone Project
 - [Day 24:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_024) Files, Directories and Paths
+- [Day 25:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_025) Working with CSV Data and the Pandas Library
