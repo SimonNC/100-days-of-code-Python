@@ -37,3 +37,6 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 28:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_028) Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_029) Building a Password Manager GUI App with Tkinter
 - [Day 30:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_030) Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 31:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_031) Flash Card App Capstone Project
+
+## 👨‍💻 Intermediate+
