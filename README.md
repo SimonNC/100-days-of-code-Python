@@ -42,3 +42,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 ## 👨‍💻 Intermediate+
 - [Day 32:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_032) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
+- [Day 33:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_033) API Endpoints & API Parameters - ISS Overhead Notifier
