@@ -44,3 +44,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 32:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_032) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - [Day 33:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_033) API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_034) API Practice - Creating a GUI Quiz App
+- [Day 35:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_035) Keys, Authentication & Environment Variables - Telegram Rain Notifier
