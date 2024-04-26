@@ -53,3 +53,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 41:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_041) Introduction to HTML
 - [Day 42:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_042) Intermediate HTML
 - Day 43:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_043) Introduction to CSS
+- [Day 44:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_044) Intermediate CSS
