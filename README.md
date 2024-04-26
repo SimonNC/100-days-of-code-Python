@@ -50,4 +50,5 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 38:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_038) Workout Tracking Using Google Sheets
 - [Day 39:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_039) Capstone Part 1: Flight Deal Finder
 - [Day 40:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_040) Capstone Part 2: Flight Club
-- Day 41:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_041) Introduction to HTML
+- [Day 41:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_041) Introduction to HTML
+- [Day 42:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_042) Intermediate HTML
