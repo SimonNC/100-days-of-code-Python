@@ -52,5 +52,6 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 40:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_040) Capstone Part 2: Flight Club
 - [Day 41:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_041) Introduction to HTML
 - [Day 42:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_042) Intermediate HTML
-- Day 43:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_043) Introduction to CSS
+- [Day 43:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_043) Introduction to CSS
 - [Day 44:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_044) Intermediate CSS
+- [Day 45:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_045) Web Scraping with Beautiful Soup
