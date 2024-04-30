@@ -55,3 +55,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 43:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_043) Introduction to CSS
 - [Day 44:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_044) Intermediate CSS
 - [Day 45:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_045) Web Scraping with Beautiful Soup
+- [Day 46:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_046) Create a Spotify Playlist Using The Musical Time Machine
