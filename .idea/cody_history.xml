@@ -1,6 +1,760 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjoyMzYxNzM=" />
+          <chats>
+            <list>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="26877562-e737-4438-872a-b5edc158e967" />
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="bbfdfe32-ba26-4a86-96f9-df4c26444454" />
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="d9eba052-a06e-4892-8bfc-20f51d349418" />
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="7e0871d5-4395-4186-8e4c-f85ca68c60f2" />
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="76647ce5-11bd-4b68-84e2-851d42679168" />
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="4a1bffcb-a52e-4c15-bc80-0a210cd1c5c1" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="755e304e-169c-4fbe-937c-422782a9a7cb" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="814c18f3-e2b2-4f2c-8171-376a9448aa2c" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="c46bfc32-6333-405e-a943-15355692a00a" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="e34fff92-86b5-4e0f-97ca-d93a31dd67a1" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="6c095a17-a1a9-4d7d-9650-a07feb7281e3" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="1c2d54ba-c268-4972-b349-d3ad3107d93b" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="e34811f5-3c91-4d84-993f-b46ff02b84e3" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <internalId value="30420d77-729d-4876-b56e-a9a77b444f3f" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="24bbdcae-46ef-44f4-942f-c1db279b1329" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="b102bd1d-e00f-4881-aa30-edfc01ee91cf" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="3a37c402-c01f-47cc-ae27-43670baae275" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="64dfcba0-efd7-415d-a925-d56411ba7ae5" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="6e4881cf-8714-45bb-a0da-0f7cd6d2fe02" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="d94cce51-2f95-4307-a0d5-5d1f59adaec3" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="9d4bb1f1-671f-47fa-93e4-8d7dc85218ab" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-2.0" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 2.0" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="cbb89259-4658-4b2c-a7a2-a22faea62d39" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="c2a0a818-5f5c-4dd9-8a88-e2cd1e14e9ec" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="f478be7b-c258-4ae7-962e-559f300876cc" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="0d4647e9-1854-43cd-9002-25d93ba7c889" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="0beac012-0099-4b7f-88c8-7e9e3db809db" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="fc5e3218-cbe1-469b-bb3f-78f69e6ece90" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="c99a2ee6-4d5d-4524-b536-a16149fdb648" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="6d4657db-e1e7-4fcb-b0c1-0aa9bb66249e" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="490472bb-718f-4e0d-b3f8-4eda4c12a102" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="bf818550-efec-4b23-9e41-6e6b195ba04a" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="f42229a2-d2b8-4e2e-8535-7ad6d7fb0276" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="f3bd6132-27f4-470e-9c8e-82dadf06c885" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="e9cd1800-21c0-45af-8624-a11e71ea56ad" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="687bbf83-3ea3-4191-a7c4-19a5e501aa23" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="Traceback (most recent call last):&#10;  File &amp;quot;C:\sandbox\python\100-days-of-code-Python\Day_045\main.py&amp;quot;, line 4, in &amp;lt;module&amp;gt;&#10;    soup = BeautifulSoup(file, &amp;quot;html.parser&amp;quot;)&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &amp;quot;C:\sandbox\python\100-days-of-code-Python\venv\Lib\site-packages\bs4\__init__.py&amp;quot;, line 314, in __init__&#10;    markup = markup.read()&#10;             ^^^^^^^^^^^^^&#10;  File &amp;quot;C:\Users\simon\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py&amp;quot;, line 23, in decode&#10;    return codecs.charmap_decode(input,self.errors,decoding_table)[0]&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 281: character maps to &amp;lt;undefined&amp;gt;" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="This error is occurring because the file you are trying to parse with BeautifulSoup is not properly encoded. The error message indicates that the file contains a byte `0x9d` at position 281, which cannot be decoded using the `cp1252` encoding (which is the default encoding used by Python on Windows systems).&#10;&#10;To resolve this issue, you need to ensure that the file is properly encoded, preferably in UTF-8 format. If the file is not in UTF-8 format, you can try to decode it using the appropriate encoding by passing the `from_encoding` parameter to the `BeautifulSoup` constructor.&#10;&#10;Here's an example of how you can do that:&#10;&#10;```python&#10;from bs4 import BeautifulSoup&#10;&#10;with open(&quot;file.html&quot;, &quot;rb&quot;) as file:&#10;    content = file.read()&#10;&#10;soup = BeautifulSoup(content, &quot;html.parser&quot;, from_encoding=&quot;latin-1&quot;)&#10;```&#10;&#10;In this example, we're opening the file in binary mode (`&quot;rb&quot;`) to read the raw bytes, and then passing those bytes to `BeautifulSoup` along with the `from_encoding` parameter set to `&quot;latin-1&quot;` (which is a common encoding for Western European languages).&#10;&#10;If you're unsure of the encoding used in the file, you can try different encodings until you find one that works, or use a library like `chardet` to automatically detect the encoding.&#10;&#10;```python&#10;import chardet&#10;&#10;with open(&quot;file.html&quot;, &quot;rb&quot;) as file:&#10;    content = file.read()&#10;&#10;detected_encoding = chardet.detect(content)[&quot;encoding&quot;]&#10;soup = BeautifulSoup(content, &quot;html.parser&quot;, from_encoding=detected_encoding)&#10;```&#10;&#10;By properly handling the encoding of the file, you should be able to parse it successfully with BeautifulSoup." />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-04-29T08:55:04.2705006" />
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="e03fc38b-0a90-4986-8902-39a83aaf428e" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="5c5dc5ea-b357-41fb-bdf7-b047a20263ad" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="05c74316-f272-457e-bf00-5e46005ff1ef" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="3ee4b197-50bf-4377-9bac-eaf6803f9852" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <accountId value="VXNlcjoyMzYxNzM=" />
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="ad73baf3-408d-4385-896c-1c68f76bf9a0" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="f0af789e-b624-4c27-9eb4-d97ef3a2544e" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+            </list>
+          </chats>
+          <defaultEnhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </defaultEnhancedContext>
+          <defaultLlm>
+            <llm>
+              <model value="anthropic/claude-3-sonnet-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Sonnet" />
+            </llm>
+          </defaultLlm>
+        </AccountData>
+      </list>
+    </accountData>
     <chats>
       <list>
         <chat>
@@ -693,6 +1447,50 @@
             </enhancedContext>
           </enhancedContext>
           <internalId value="05c74316-f272-457e-bf00-5e46005ff1ef" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-3-sonnet-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Sonnet" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzYxNzM=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="3ee4b197-50bf-4377-9bac-eaf6803f9852" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-3-sonnet-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Sonnet" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyMzYxNzM=" />
+          <enhancedContext>
+            <enhancedContext>
+              <remoteRepositories>
+                <list>
+                  <remoteRepository>
+                    <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                  </remoteRepository>
+                </list>
+              </remoteRepositories>
+            </enhancedContext>
+          </enhancedContext>
+          <internalId value="ad73baf3-408d-4385-896c-1c68f76bf9a0" />
           <llm>
             <llm>
               <model value="anthropic/claude-3-sonnet-20240229" />
