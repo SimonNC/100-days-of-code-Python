@@ -58,3 +58,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 46:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_046) Create a Spotify Playlist Using The Musical Time Machine
 - [Day 47:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_047) Create an Automated Amazon Price Tracker
 - [Day 48:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_048) Selenium Webdriver Browser and Game Playing Bot
+- [Day 49:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_049) Automating Job Applications on LinkedIn
