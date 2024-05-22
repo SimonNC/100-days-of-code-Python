@@ -60,3 +60,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 48:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_048) Selenium Webdriver Browser and Game Playing Bot
 - [Day 49:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_049) Automating Job Applications on LinkedIn
 - [Day 50:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_050) Auto Tinder Swiping Bot
+- [Day 51:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_051) Internet Speed Twitter Complaint Bot
