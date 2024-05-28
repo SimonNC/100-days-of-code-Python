@@ -816,6 +816,48 @@
                   </llm>
                 </llm>
               </chat>
+              <chat>
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="f500ce85-d75d-4f7d-95ce-83c5b5fa06ed" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="b1b2ad08-ffcc-4bad-a16c-b2b8d27ddc01" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
             </list>
           </chats>
           <defaultEnhancedContext>
