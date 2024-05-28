@@ -62,3 +62,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 50:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_050) Auto Tinder Swiping Bot
 - [Day 51:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_051) Internet Speed Twitter Complaint Bot
 - [Day 52:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_052) Instagram Follower Bot
+- [Day 53:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_053) Web Scraping Capstone - Data Entry Job Automation
