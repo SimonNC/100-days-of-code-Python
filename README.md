@@ -65,3 +65,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 53:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_053) Web Scraping Capstone - Data Entry Job Automation
 - [Day 54:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_054) Introduction to Web Development with Flask
 - [Day 55:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_055) HTML & URL Parsing in Flask and the Higher Lower Game
+- [Day 56:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_056) Rendering HTML/Static Files and Using Website Templates
