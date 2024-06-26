@@ -67,3 +67,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 55:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_055) HTML & URL Parsing in Flask and the Higher Lower Game
 - [Day 56:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_056) Rendering HTML/Static Files and Using Website Templates
 - [Day 57:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_057) Templating with Jinja in Flask Applications
+- [Day 58:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_058) Web Foundation Boostrap
