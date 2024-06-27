@@ -71,3 +71,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - 
 - ## 🏆 Advanced
 - [Day 59:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_059) Blog Capstone Project Part 2 - Adding Styling
+- [Day 60:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_060) Make POST Requests with Flask and HTML Forms
