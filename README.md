@@ -74,3 +74,5 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 60:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_060) Make POST Requests with Flask and HTML Forms
 - [Day 61:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_061) Building Advanced Forms with Flask-WTForms
 - [Day 62:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_062) Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
+- [Day 63:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_063) Databases and with SQLite and SQLAlchemy
+- [Day 64:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_064) My Top 10 Movies Website
