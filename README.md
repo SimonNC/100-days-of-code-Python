@@ -76,3 +76,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 62:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_062) Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
 - [Day 63:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_063) Databases and with SQLite and SQLAlchemy
 - [Day 64:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_064) My Top 10 Movies Website
+- [Day 65:](https://github.com/SimonNC/100-days-of-code-Python/tree/main/Day_065) How to Create a Website That People Will Love
