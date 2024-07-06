@@ -32,9 +32,9 @@
                 <internalId value="4a1bffcb-a52e-4c15-bc80-0a210cd1c5c1" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -43,9 +43,9 @@
                 <internalId value="755e304e-169c-4fbe-937c-422782a9a7cb" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -54,9 +54,9 @@
                 <internalId value="814c18f3-e2b2-4f2c-8171-376a9448aa2c" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -65,9 +65,9 @@
                 <internalId value="c46bfc32-6333-405e-a943-15355692a00a" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -76,9 +76,9 @@
                 <internalId value="e34fff92-86b5-4e0f-97ca-d93a31dd67a1" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -87,9 +87,9 @@
                 <internalId value="6c095a17-a1a9-4d7d-9650-a07feb7281e3" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -98,9 +98,9 @@
                 <internalId value="1c2d54ba-c268-4972-b349-d3ad3107d93b" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -109,9 +109,9 @@
                 <internalId value="e34811f5-3c91-4d84-993f-b46ff02b84e3" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -120,9 +120,9 @@
                 <internalId value="30420d77-729d-4876-b56e-a9a77b444f3f" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -142,9 +142,9 @@
                 <internalId value="24bbdcae-46ef-44f4-942f-c1db279b1329" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -164,9 +164,9 @@
                 <internalId value="b102bd1d-e00f-4881-aa30-edfc01ee91cf" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -186,9 +186,9 @@
                 <internalId value="3a37c402-c01f-47cc-ae27-43670baae275" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -208,9 +208,9 @@
                 <internalId value="64dfcba0-efd7-415d-a925-d56411ba7ae5" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -230,9 +230,9 @@
                 <internalId value="6e4881cf-8714-45bb-a0da-0f7cd6d2fe02" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -252,9 +252,9 @@
                 <internalId value="d94cce51-2f95-4307-a0d5-5d1f59adaec3" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -274,9 +274,9 @@
                 <internalId value="9d4bb1f1-671f-47fa-93e4-8d7dc85218ab" />
                 <llm>
                   <llm>
-                    <model value="anthropic/claude-2.0" />
+                    <model value="anthropic/claude-3-sonnet-20240229" />
                     <provider value="Anthropic" />
-                    <title value="Claude 2.0" />
+                    <title value="Claude 3 Sonnet" />
                   </llm>
                 </llm>
               </chat>
@@ -1135,6 +1135,48 @@
                   </enhancedContext>
                 </enhancedContext>
                 <internalId value="65b21d43-7208-47fb-a54b-2f4374a6ac89" />
+              </chat>
+              <chat>
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="b739949d-a683-4c59-a430-f7cfa4a00d9c" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+              </chat>
+              <chat>
+                <enhancedContext>
+                  <enhancedContext>
+                    <remoteRepositories>
+                      <list>
+                        <remoteRepository>
+                          <codebaseName value="github.com/simonnc/100-days-of-code-python" />
+                        </remoteRepository>
+                      </list>
+                    </remoteRepositories>
+                  </enhancedContext>
+                </enhancedContext>
+                <internalId value="37a51885-a316-456f-89fd-8c89ddb93302" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
               </chat>
             </list>
           </chats>
